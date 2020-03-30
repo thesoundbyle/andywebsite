@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "thesoundbyle-website",
+    "site": "thesoundbyle-webiste",
     "public": ".",
     "ignore": [
       "firebase.json",
