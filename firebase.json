@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "thesoundbyle-website",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "thesoundbyle",
+  "version": "1.0.0",
+  "description": "andy's main portfolio website",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "login" : "firebase login",
+    "deploy": "firebase deploy --only hosting",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mouadbroos/andywebsite.git"
+  },
+  "author": "andy le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mouadbroos/andywebsite/issues"
+  },
+  "homepage": "https://github.com/mouadbroos/andywebsite#readme"
+}
